@@ -1,4 +1,10 @@
 *{
-	background black;
-	color: white;
+	background white;
+	color: black;
+}
+#text{
+	text-align: center;
+}
+#text p{
+color: pink;
 }
